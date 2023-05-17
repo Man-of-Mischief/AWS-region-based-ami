@@ -15,7 +15,7 @@ To get started with provisioning the EC2 instance, follow these steps:
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Man-of-Mischief/AWS-region-based-ami.git
 ```
 2. Navigate to the cloned directory:
 
